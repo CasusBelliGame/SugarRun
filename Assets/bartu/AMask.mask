@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AMask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/ElbowCT.L
+    m_Weight: 1
+  - m_Path: Armature/ElbowCT.R
+    m_Weight: 1
+  - m_Path: Armature/FootCT.L
+    m_Weight: 1
+  - m_Path: Armature/FootCT.R
+    m_Weight: 1
+  - m_Path: Armature/HandCT.L
+    m_Weight: 1
+  - m_Path: Armature/HandCT.R
+    m_Weight: 1
+  - m_Path: Armature/KneeCT.L
+    m_Weight: 1
+  - m_Path: Armature/KneeCT.R
+    m_Weight: 1
+  - m_Path: Armature/Root
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/Neck
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/Neck/Head
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/UpperArm.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/UpperArm.L/LowerArm.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/UpperArm.L/LowerArm.L/Hand.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/UpperArm.L/LowerArm.L/Hand.L/Finger.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/UpperArm.L/LowerArm.L/Hand.L/Thumb.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/UpperArm.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/UpperArm.R/LowerArm.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/UpperArm.R/LowerArm.R/Hand.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/UpperArm.R/LowerArm.R/Hand.R/Finger.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/UpperArm.R/LowerArm.R/Hand.R/Thumb.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/UpperArm.R/LowerArm.R/LowerArm.R.001
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/Spine1/UpperArm.R/LowerArm.R/LowerArm.R.001/enemy.sword.001
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/UpperLeg.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/UpperLeg.L/LowerLeg.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/UpperLeg.L/LowerLeg.L/Foot.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/UpperLeg.L/LowerLeg.L/Foot.L/Foot.L.001
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/UpperLeg.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/UpperLeg.R/LowerLeg.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/UpperLeg.R/LowerLeg.R/Foot.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine/UpperLeg.R/LowerLeg.R/Foot.R/Foot.R.001
+    m_Weight: 1
+  - m_Path: enemy.arms.001
+    m_Weight: 1

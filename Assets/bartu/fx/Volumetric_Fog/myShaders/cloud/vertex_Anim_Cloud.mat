@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: vertex_Anim_Cloud
+  m_Shader: {fileID: -6465566751694194690, guid: 50f6f3f03690c6d4db035aa1841650b0,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Distance_: 185.48
+    - Vector1_117910DA: 0.05
+    - Vector1_4F94F6FB: 0.02
+    m_Colors:
+    - Color_82303A6C: {r: 0.6981132, g: 0.5739766, b: 0.41162336, a: 0}
+    - Color_98ADB2D1: {r: 0.32599998, g: 0.23867856, b: 0.22121428, a: 0}
